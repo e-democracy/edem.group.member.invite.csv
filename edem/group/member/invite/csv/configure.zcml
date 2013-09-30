@@ -5,7 +5,7 @@
 
   <browser:page 
     for="Products.XWFChat.interfaces.IGSGroupFolder" 
-    name="admin_join_invite_csv.html" 
+    name="admin_join_csv.html" 
     class=".create_users_from_csv.EDemCreateUsersForm" 
     template="browser/templates/admin_create_users_from_csv.pt" 
     layer="gs.skin.ogn.edem.interfaces.IEDemLayer" 
